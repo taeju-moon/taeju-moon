@@ -4,7 +4,8 @@ I'm taeju-moon majoring Data Science in Korea.
 
 Contact me here => pp2lycee@naver.com
 
-taeju-[Uploading typescript.svg…]()
+[django.pdf](https://github.com/taeju-moon/taeju-moon/files/7886053/django.pdf)
+
 
 <!--
 **
