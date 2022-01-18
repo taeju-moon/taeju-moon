@@ -4,10 +4,11 @@ I'm taeju-moon majoring Data Science in Korea.
 
 Contact me here => pp2lycee@naver.com
 
-#3178C6
+taeju-[Uploading typescript.svg…]()
 
 <!--
-**taeju-moon/taeju-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
+moon/taeju-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
