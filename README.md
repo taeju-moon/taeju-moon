@@ -4,8 +4,8 @@ I'm taeju-moon majoring Data Science in Korea.
 
 Contact me here => pp2lycee@naver.com
 
-<img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript}&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Typescript-#3178C6?style=flat&logo=TypeScript}&logoColor=#3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript}&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript}&logoColor=3178C6"/>
 
 
 <!--
