@@ -31,7 +31,11 @@ I'm taeju-moon majoring Data Science in Korea.
  <img src="https://img.shields.io/badge/pandas-47A248.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
  <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+ <br/>
+  <h2>Editors</h2>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <br/><br/><br/>
 
 </div>
