@@ -8,7 +8,7 @@ I'm taeju-moon majoring Data Science in Korea.
 
 <br/><br/>
  <div>
- <div><strong>🔧 My Tech stacks 🔧</strong></div>
+ <div><h1>🔧 My Tech stacks 🔧</h1></div>
  <br/>
  <h2>Languages</h2>
   <img src="https://img.shields.io/badge/HTML-e34c26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -24,18 +24,15 @@ I'm taeju-moon majoring Data Science in Korea.
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-150458.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
-  
+ <h2>Data Science</h2>
+ <img src="https://img.shields.io/badge/pandas-47A248.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
+ <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <br/><br/><br/>
-  
-  <div><strong>🌠Check out my miro board!🌠</strong></div>
-  <div>The whole roadmap I'm following for learning</div><br/>
-  <a href = "https://miro.com/app/board/uXjVOtxfYk0=/" target="_blank">
-   <img src="https://img.shields.io/badge/IT roadmap-e34c26.svg?style=for-the-badge&logo=Miro&logoColor=white"/>
-  </a>
+
 </div>
 <br/>
