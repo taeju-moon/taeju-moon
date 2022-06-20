@@ -21,6 +21,7 @@ I'm taeju-moon majoring Data Science in Korea.
   <br/>
  <h4>Web&App</h4>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/>
