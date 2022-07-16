@@ -48,6 +48,6 @@ I'm taeju-moon majoring Data Science in Korea.
 
 <h3>Projects</h3>
 - Memories Clone Coding https://resplendent-frangollo-bc34ac.netlify.app/<br/>
-- Likelion Notice Site http://skkulikelion.site/<br/>
+- Likelion Notice Site http://skkulikelion.site/ (https://github.com/taeju-moon/social-media-app)<br/>
 <br/>
 <br/>
