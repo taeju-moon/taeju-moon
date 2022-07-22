@@ -42,12 +42,9 @@ I'm taeju-moon majoring Data Science in Korea.
 </div>
 
 <h3>TimeLine</h3>
-- 🦁2021.03~ 멋쟁이사자처럼 성균관대 9기~10기<br/>
-- 🦁2021.08~ 멋쟁이사자처럼 성균관대 9기~10기 운영진<br/>
-- 🧑‍💻2022.04~ 성균관대학교 기술지원팀 3기 백엔드 엔지니어<br/>
+- 🦁2021.03~ SKKU LIKELION<br/>
+- 🦁2021.08~ SKKU LIKELION MANAGER<br/>
+- 🧑‍💻2022.04~ SKKU Technical Service Team Backend Engineer<br/>
 
-<h3>Projects</h3>
-- Memories Clone Coding https://resplendent-frangollo-bc34ac.netlify.app/ (https://github.com/taeju-moon/social-media-app)<br/>
-- Likelion Notice Site http://skkulikelion.site/ <br/>
 <br/>
 <br/>
