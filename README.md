@@ -2,9 +2,9 @@ Hi there 👋
 
 I'm taeju-moon majoring Data Science in Korea.
 
-- 🔭 I’m currently working on SKKU TSC Team as a backend engineer.
-- 🌱 I’m currently learning MERN stack.
-- 📫 Contact Me: pp2lycee@naver.com
+- 🔭 I’m currently working on Chunneung as a .NET developer.
+- 🌱 I’m currently learning .NET Framework and design patterns.
+- 📫 Contact Me: pp2lycee@g.skku.edu
 
 <br/><br/>
  <div>
@@ -19,7 +19,7 @@ I'm taeju-moon majoring Data Science in Korea.
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
   <br/>
- <h4>Web&App</h4>
+ <h4>Application</h4>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
