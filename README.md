@@ -2,7 +2,6 @@ Hi there 👋
 
 I'm taeju-moon majoring Data Science in Korea.
 
-- 🔭 I’m currently working on Chunneung as a .NET developer.
 - 🌱 I’m currently learning .NET Framework and design patterns.
 - 📫 Contact Me: pp2lycee@g.skku.edu
 
