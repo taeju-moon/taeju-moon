@@ -41,9 +41,8 @@ I'm taeju-moon majoring Data Science in Korea.
 </div>
 
 <h3>TimeLine</h3>
-- 🦁2021.03 ~ 2022.12 SKKU LIKELION<br/>
-- 🦁2021.08 ~ 2022.12 SKKU LIKELION MANAGER<br/>
-- 🧑‍💻2022.04 ~ SKKU Technical Service Team Backend Engineer<br/>
+- 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
+- 2023.06 ~ SMART DOCTOR [.NET developer]
 
 <br/>
 <br/>
