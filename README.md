@@ -22,6 +22,7 @@ I'm taeju-moon majoring Data Science in Korea.
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-000000.svg?style=for-the-badge&logo=NestJs&logoColor=red"/>
+  <img src="https://img.shields.io/badge/.NET-8A0886.svg?style=for-the-badge&logo=.NET&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
   <br/>
   <h4>Preferred Databases</h4>
