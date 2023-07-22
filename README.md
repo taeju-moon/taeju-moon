@@ -9,14 +9,10 @@ I'm taeju-moon majoring Data Science in Korea.
  <div>
  <div><h3>🔧 My Tech stacks 🔧</h3></div>
  <br/>
- <h4>Languages</h4>
-  <img src="https://img.shields.io/badge/HTML-e34c26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-3399dc.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <h4>Preferred Languages</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-FF00BF?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <br/>
  <h4>Application</h4>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
