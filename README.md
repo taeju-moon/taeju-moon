@@ -1,14 +1,12 @@
 Hi there 👋
 
-I'm taeju-moon majoring Data Science in Korea.
-
-- 🌱 I’m currently learning .NET Framework and design patterns.
-- 📫 Contact Me: pp2lycee@g.skku.edu
-
-<br/><br/>
+- 🌱 I'm taeju-moon majoring Data Science in Korea
+- 📫 Contact Me: pp2lycee@naver.com
+- 🗒 My Blog: https://velog.io/@pp2lycee
+  
+<br/>
  <div>
  <div><h3>🔧 My Tech stacks 🔧</h3></div>
- <br/>
  <h4>Preferred Languages</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -29,12 +27,11 @@ I'm taeju-moon majoring Data Science in Korea.
   <img src="https://img.shields.io/badge/MsSQL-8CF064.svg?logo=microsoft-sql-server&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-150458.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <h3>TimeLine</h3>
 - 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
 - 2023.06 ~ SMART DOCTOR [.NET developer]
 
-<br/>
 <br/>
