@@ -12,7 +12,7 @@ I'm taeju-moon majoring Data Science in Korea.
  <h4>Preferred Languages</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Csharp-FF00BF?style=for-the-badge&logo=Csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-8A0886?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <br/>
  <h4>Application</h4>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
