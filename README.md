@@ -12,11 +12,11 @@ Hi there 👋
   <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Csharp-8A0886?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <br/>
- <h4>Preferred Frontend Library</h4>
+ <h4>Preferred Frontend Libraries</h4>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <br/>
- <h4>Preferred Backend Library</h4>
+ <h4>Preferred Backend Libraries</h4>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-000000.svg?style=for-the-badge&logo=NestJs&logoColor=red"/>
