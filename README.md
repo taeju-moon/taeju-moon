@@ -3,6 +3,12 @@ Hi there 👋
 - 🌱 I'm taeju-moon majoring Data Science in Korea
 - 📫 Contact Me: pp2lycee@naver.com
 - 🗒 My Blog: https://velog.io/@pp2lycee
+
+<h3>TimeLine</h3>
+- 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
+- 2023.06 ~ SMART DOCTOR [.NET developer]
+
+<br/>
   
 <br/>
  <div>
@@ -30,8 +36,4 @@ Hi there 👋
   <br/>
 </div>
 
-<h3>TimeLine</h3>
-- 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
-- 2023.06 ~ SMART DOCTOR [.NET developer]
 
-<br/>
