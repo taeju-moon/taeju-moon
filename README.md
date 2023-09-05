@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I'm taeju-moon majoring Data Science in Korea
+- 🌱 Major: Data Science
 - 📫 Contact Me: pp2lycee@naver.com
 - 🗒 My Blog: https://velog.io/@pp2lycee
 
