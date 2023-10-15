@@ -5,7 +5,6 @@ Hi there 👋
 - 🗒 My Blog: https://velog.io/@pp2lycee
 
   
-![Taeju's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeju-moon&show_icons=true&theme=radical)
 
 <h3>TimeLine</h3>
 - 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
