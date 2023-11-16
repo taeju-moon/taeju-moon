@@ -7,8 +7,8 @@ Hi there 👋
   
 
 <h3>TimeLine</h3>
-- 2023.02 ~ 2023.06 METRIC STUDIO [Backend] <br/>
-- 2023.06 ~ SMART DOCTOR [.NET developer]
+- 2023.02 ~ 2023.06 메트릭스튜디오 [Backend] <br/>
+- 2023.06 ~ 전능아이티 [.NET developer]
 
 <br/>
 
