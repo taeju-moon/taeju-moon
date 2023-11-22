@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 Major: Data Science
+- 🌱 Major: 데이터사이언스융합전공
 - 📫 Contact Me: pp2lycee@naver.com
 - 🗒 My Blog: https://velog.io/@pp2lycee
 
