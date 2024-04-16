@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/MongoDB-150458.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
   <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeju-moon&langs_count=10&layout=compact&theme=dark)](https://github.com/taeju-moon/taeju-moon)﻿
 </div>
 
 
