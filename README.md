@@ -6,7 +6,7 @@
 
 <h3>TimeLine</h3>
 - 2023.02 ~ 2023.06 메트릭스튜디오 [Backend] <br/>
-- 2023.06 ~ 전능아이티 [.NET developer]
+- 2023.06 ~ 전능아이티 [.NET Engineer]
 
 <br/>
 
@@ -14,7 +14,7 @@
   
 <br/>
  <div>
- <div><h3>🔧 My Tech stacks 🔧</h3></div>
+ <div><h3>🔧 Using Stacks 🔧</h3></div>
  <h4>Preferred Languages</h4>
    <img src="https://img.shields.io/badge/Csharp-8A0886?style=for-the-badge&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
