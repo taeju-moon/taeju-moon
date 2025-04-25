@@ -5,7 +5,6 @@
   pp2lycee@g.skku.edu
 </p>
 
----
 
 <h2 align="center">🗂️ Timeline</h2>
 
@@ -14,7 +13,6 @@
   💼 <strong>전능아이티</strong> — Software Engineer (2023.06 ~ 현재)
 </p>
 
----
 
 <h2 align="center">💻 Languages</h2>
 
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
 
 <h2 align="center">⚙️ Frameworks & Runtimes</h2>
 
@@ -37,7 +34,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
----
 
 <h2 align="center">🗃️ Databases</h2>
 
@@ -46,7 +42,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
 
 <h2 align="center">☁️ Collaboration & Cloud Tools</h2>
 
@@ -58,6 +53,6 @@
   <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 </p>
 
----
+
 
 <h4 align="center">✨ Always learning, always building.</h4>
