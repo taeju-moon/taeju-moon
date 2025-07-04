@@ -54,6 +54,3 @@
 </p>
 
 
-
-![Most Used Languages](https://api.githubtrends.io/user/svg/taeju-moon/langs?time_range=all_time&include_private=true&compact=true)
-
