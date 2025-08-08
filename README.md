@@ -10,7 +10,7 @@
 
 <p align="center">
   🏢 <strong>메트릭스튜디오</strong> — Backend Intern (2023.02 ~ 2023.06)<br/>
-  💼 <strong>전능아이티</strong> — Desktop Software Engineer (2023.06 ~ 현재)
+  💼 <strong>전능아이티</strong> — Desktop Software Engineer (2023.06 ~ 2025.07)
 </p>
 
 
