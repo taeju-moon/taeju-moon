@@ -5,6 +5,9 @@
   pp2lycee@g.skku.edu
 </p>
 
+<h4 align="center">
+  <a href="https://github.com/taeju-moon/Portfolio/blob/main/portfolio.pdf" target="_blank">📄 Portfolio 바로가기</a>
+</h4>
 
 <h2 align="center">🗂️ Timeline</h2>
 
