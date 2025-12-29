@@ -9,11 +9,19 @@
   <a href="https://github.com/taeju-moon/Portfolio/blob/main/portfolio.pdf" target="_blank">📄 Portfolio 바로가기</a>
 </h4>
 
+<p align="center">
+  <a href="https://solved.ac/pp2lycee/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp2lycee" alt="Solved.ac Profile">
+  </a>
+</p>
+
+
 <h2 align="center">🗂️ Timeline</h2>
 
 <p align="center">
-  🏢 <strong>메트릭스튜디오</strong> — Backend Intern (2023.02 ~ 2023.06)<br/>
-  💼 <strong>전능아이티</strong> — Desktop Software Engineer (2023.06 ~ 2025.07)
+  🏢 <strong>모트렉스</strong> - Data Engineer Intern (2025.12 ~ ) <br/>
+  💼 <strong>전능아이티</strong> — Desktop Software Engineer (2023.06 ~ 2025.07) <br/>
+  💻 <strong>메트릭스튜디오</strong> — Backend Intern (2023.02 ~ 2023.06)
 </p>
 
 
