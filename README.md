@@ -1,7 +1,7 @@
 <h2 align="center">📌 About Me</h2>
 
 <p align="center">
-  WPF / WinForms / Backend 개발<br/>
+  데스크톱 / 백엔드 / 데이터엔지니어링 <br/>
   pp2lycee@g.skku.edu
 </p>
 
