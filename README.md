@@ -19,9 +19,9 @@
 <h2 align="center">🗂️ Timeline</h2>
 
 <p align="center">
-  🏢 <strong>모트렉스</strong> - Data Engineer Intern (2025.12 ~ ) <br/>
-  💼 <strong>전능아이티</strong> — Desktop Software Engineer (2023.06 ~ 2025.07) <br/>
-  💻 <strong>메트릭스튜디오</strong> — Backend Intern (2023.02 ~ 2023.06)
+  🏢 <strong>모트렉스(인턴)</strong> — Data Engineer (2025.12 ~ ) <br/>
+  💼 <strong>전능아이티(산업기능요원)</strong> — Desktop Software Engineer (2023.06 ~ 2025.07) <br/>
+  💻 <strong>메트릭스튜디오(인턴)</strong> — Data Engineer (2023.02 ~ 2023.06)
 </p>
 
 
